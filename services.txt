@@ -1,0 +1,5 @@
+Haircut,20.00,30 Minutes
+Manicure,15.00,30 Minutes
+Massage,35.00,1 Hour
+Pedicure,25.00,1.5 Hours
+Facial,45.00,2 Hours
